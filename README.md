@@ -1,7 +1,7 @@
 # Deinj - simple dependency injection container
-[![Build Status](https://travis-ci.org/kambo-1st/Deinj.svg?branch=master)](https://travis-ci.org/kambo-1st/KamboRouter)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/kambo-1st/Deinj/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/kambo-1st/KamboRouter/?branch=master)
-[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/kambo-1st/Deinj.svg?style=flat-square)](https://scrutinizer-ci.com/g/kambo-1st/KamboRouter/)
+[![Build Status](https://travis-ci.org/kambo-1st/Deinj.svg?branch=master)](https://travis-ci.org/kambo-1st/Deinj)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/kambo-1st/Deinj/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/kambo-1st/Deinj/?branch=master)
+[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/kambo-1st/Deinj.svg?style=flat-square)](https://scrutinizer-ci.com/g/kambo-1st/Deinj/)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
 Just another simple dependency injection container with following highlights:
